@@ -1,12 +1,12 @@
-class Acer
+class Electrolux
 { 
   
 public static void main(String phone[]) {
 	
-	 String brandName = "Acer";
-   int price = 30000;
+	 String brandName = "Electrolux";
+   int price = 56000;
    String type = "Front load washer";
-   String weight = "6.2 kg";
+   String weight = "6.8 kg";
    String color = "White";
   
   System.out.println(" Main Started ");
